@@ -1,6 +1,8 @@
 # Pre-patched Dexcom G7 App: GAMBEL G7
 ## This patch is NOT the 'BYODA patch' and should not be confused with it, as this patch is a standalone and more minimalistic approach.
 
+## READ THE WIKI [HERE](https://github.com/authorgambel/Gambel_G7/wiki)
+
 ## Dexcom G7 v1.4.3906
 
 Whats NEW in this version:
