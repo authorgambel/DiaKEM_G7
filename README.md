@@ -47,3 +47,6 @@ This method has several advantages:
 ## What is this modified app?
 To extend and limit the functionality of the original Dexcom G7 app, this version of the G7 app was created.
 
+# Problems?
+
+Open up an issue and explain what your problem is.
