@@ -13,7 +13,7 @@ Whats NEW in this version:
 - Glucose view in landscape mode
 - Fixes some bug (which, we don't know - nice DEXCOM!)
 
-##  GAMBEL G7 Patch v1.1 - modified funcionality:
+##  DiaKEM G7 Patch v1.1 - modified funcionality:
 
 - AndroidAPS glucose broadcasting (see here: https://androidaps.readthedocs.io/en/latest/Hardware/DexcomG7.html)
 - Disable Dexcom compatibility check (will report a supported phone to DEXCOM)
