@@ -1,12 +1,12 @@
-# Pre-patched Dexcom G7 App: GAMBEL G7
+# Pre-patched Dexcom G7 App: DiaKEM G7
 ## This patch is NOT the 'BYODA patch' and should not be confused with it, as this patch is a standalone and more minimalistic approach.
 
-## READ THE WIKI [HERE](https://github.com/authorgambel/Gambel_G7/wiki)
+## READ THE WIKI [HERE](https://github.com/authorgambel/DiaKEM_G7/wiki)
 
 ## Dexcom G7 v1.4.3906
 
 Whats NEW in this version:
-- Filsize increased to 177MB
+- Filsize increased to 178MB
 - DEXCOM added heavy obfuscation
 - Support and login for US users (US market launch)
 - Improves battery life
