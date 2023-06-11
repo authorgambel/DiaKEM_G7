@@ -3,6 +3,8 @@
 
 ## READ THE WIKI [HERE](https://github.com/authorgambel/DiaKEM_G7/wiki)
 
+## Dexcom G7 v1.6.1.4537
+
 ## Dexcom G7 v1.4.3906
 
 Whats NEW in this version:
